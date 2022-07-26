@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/netflix/static/css/main.15e84598.css",
+    "main.js": "/netflix/static/js/main.7292e26e.js",
+    "static/media/bg.jpg": "/netflix/static/media/bg.820c9732cbb3d71ed210.jpg",
+    "static/media/kid.png": "/netflix/static/media/kid.e7d49e2355f60bcfce16.png",
+    "static/media/eleven.jpg": "/netflix/static/media/eleven.7ba1b8e7b88a266acad6.jpg",
+    "static/media/tv.jpg": "/netflix/static/media/tv.484f53fa8370b0ca1f29.jpg",
+    "static/media/boxshot.png": "/netflix/static/media/boxshot.347f4ee3bafbdfe71112.png",
+    "index.html": "/netflix/index.html",
+    "main.15e84598.css.map": "/netflix/static/css/main.15e84598.css.map",
+    "main.7292e26e.js.map": "/netflix/static/js/main.7292e26e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e84598.css",
+    "static/js/main.7292e26e.js"
+  ]
+}
